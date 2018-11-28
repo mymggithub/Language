@@ -1,4 +1,4 @@
 # Spanish-Grammar
 
-Hello an welcome, this is a guide for latin american spanish grammer.
+Hello and welcome, this is a guide for latin american spanish grammer.
 
